@@ -17,6 +17,12 @@
       "day": "7.5.23 3pm",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "Walk Simon",
+      "day": "Today at 12:30",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
